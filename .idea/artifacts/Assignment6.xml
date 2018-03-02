@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Assignment6">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment6</output-path>
+    <root id="archive" name="Assignment6.war">
+      <element id="javaee-facet-resources" facet="Assignment6/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="mysql-connector-java-5.1.45-bin" />
+        </element>
+        <element id="directory" name="classes">
+          <element id="module-output" name="Assignment6" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
